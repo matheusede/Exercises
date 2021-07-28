@@ -1,2 +1,2 @@
-# cppExercises
-Some exercises using C++
+# Exercises
+Some exercises using diverses programming languages
